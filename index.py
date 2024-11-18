@@ -1,1 +1,4 @@
-print(12)
+
+print('lev')
+
+print('Hello')
