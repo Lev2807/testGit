@@ -1,39 +1,4 @@
-
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-Hello!!!!!!!!!!!!
-Llskdfflihewfefef
-
-
-
-
-
-
-
-
-
-
-
-
-llllllllllllllllllllllllll
+class Calc:
+    num1 = 12
+    num2 = 54
+    
