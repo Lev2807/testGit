@@ -10,3 +10,6 @@ class Calc:
 
     def min_num(self):
         print(min(self.num1, self.num2))
+
+    def get(self):
+        print(self.num1, self.num2)
