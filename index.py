@@ -1,39 +1,7 @@
+class Calc:
+    num1 = 12
+    num2 = 54
 
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-
-print('lev')
-
-print('Hello')
-print('lev')
-
-print('Hello')
-
-Hello!!!!!!!!!!!!
-Llskdfflihewfefef
-
-
-
-
-
-
-
-
-
-
-
-
-llllllllllllllllllllllllll
+    def plus(self):
+        print(self.num1 + self.num2)
+    
