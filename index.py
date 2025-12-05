@@ -13,3 +13,6 @@ class Calc:
 
     def get(self):
         print(self.num1, self.num2)
+
+    def get_type(self):
+        print(type(self.num1),type(self.num2))
