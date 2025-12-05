@@ -7,3 +7,6 @@ class Calc:
 
     def max_num(self):
         print(max(self.num1, self.num2))
+
+    def min_num(self):
+        print(min(self.num1, self.num2))
